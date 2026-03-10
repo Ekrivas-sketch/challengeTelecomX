@@ -1,6 +1,5 @@
-Aquí tienes un **README profesional** basado en todo el análisis que desarrollaste. Está estructurado como se espera en proyectos de **Data Science / Data Analytics en GitHub o portafolios**.
-
----
+Realizado por:
+ Erick Rivas
 
 # 📊 Análisis de Evasión de Clientes (Churn) – Telecom X
 
@@ -225,4 +224,4 @@ Si quieres, también puedo ayudarte a crear una **versión aún más profesional
 * 📈 **Métricas del modelo**
 * 🚀 **Impacto en el negocio**
 
-Queda mucho más fuerte para **GitHub, LinkedIn o entrevistas**.
+
